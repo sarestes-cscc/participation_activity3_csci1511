@@ -1,5 +1,5 @@
 """
-Basic Python to class
+Basic Python code -> class
 Sarah Estes
 Turning a basic code block into a class
 Using code block from Project 1, Book Shop Inventory
