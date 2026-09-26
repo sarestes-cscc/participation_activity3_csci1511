@@ -14,7 +14,7 @@ class BookInventory:
 
     def get_book_names(self, *books):
         for book in books:
-            print(book.title)
+            print(book.title())
 
 BookInventory.get_book_names(
     "vampires of el norte", "the pirate queen",
