@@ -13,6 +13,7 @@ class BookInventory:
         self.books = books
 
     def get_book_names(self, *books):
+        """List books in inventory"""
         for book in books:
             print(book.title())
 
